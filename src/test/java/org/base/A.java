@@ -33,5 +33,10 @@ public class A {
 			System.out.println("testcase 5");
 			
 		}	
+		
+		 private void dhanush() {
+			System.out.println("complited my project");
+
+		}
 			
 		}
